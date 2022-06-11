@@ -41,7 +41,7 @@ $stmt=$mysqli->prepare("SELECT email,contactNo,password FROM userregistration WH
 	<link rel="stylesheet" href="css/fileinput.min.css">
 	<link rel="stylesheet" href="css/awesome-bootstrap-checkbox.css">
 	<link rel="stylesheet" href="css/style.css">
-</head
+		</head>
 <body>
 	
 	<div class="login-page bk-img" style="background-image: url(img/login-bg.jpg);">
